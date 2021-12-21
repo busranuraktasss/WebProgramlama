@@ -1,0 +1,154 @@
+{
+  "menus": [
+    {
+      "text": "Kampanyalar",
+      "menus": [
+        {
+          "id": 1,
+          "text": "3 Adet Şal 210 TL",
+          "menus": [
+            {
+              "id": 2,
+              "text": "Baroq Desen Şal",
+              "url": "#"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "text": "4 Adet Şal 120 TL",
+          "menus": [
+            {
+              "id": 4,
+              "text": "pamuklu şal düz renk",
+              "url": "#"
+            },
+            {
+              "id": 5,
+              "text": "kraş pamuk şal",
+              "url": "#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Şal",
+      "menus": [
+        {
+          "id": 8,
+          "text": "pamuklu şal düz renk",
+          "url": "#"
+        },
+        {
+          "id": 9,
+          "text": "kraş pamuk şal",
+          "url": "#"
+        }
+      ]
+    }
+    , {
+      "id": 10,
+      "text": "Eşarp",
+      "menus": [
+        {
+          "id": 12,
+          "text": "İpek Viskon Eşarp",
+          "url": "#"
+        },
+        {
+          "id": 13,
+          "text": "Düz İpek Viskon Eşarp",
+          "url": "#"
+        },
+        {
+          "id": 14,
+          "text": "Şal Eşarp",
+          "url": "#"
+        },
+        {
+          "id": 15,
+          "text": "Kristal Eşarp",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Şalland Koleksiyon",
+      "menus": [
+        {
+          "id": 16,
+          "text": "%100 İpek (Silk) Şal",
+          "url": "#"
+        },
+        {
+          "id": 18,
+          "text": "Etnik Desen",
+          "url": "#"
+        },
+        {
+          "id": 19,
+          "text": "Baroq Desen Şal",
+          "url": "#"
+        },
+        {
+          "id": 20,
+          "text": "İpekli Yok Şal",
+          "url": "#"
+        }
+
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "/images/products/1.jpg",
+      "title": "Freya Serisi Siyah",
+      "subTitle": "Freya1",
+      "price": 60,
+      "color": "Siyah"
+    },
+    {
+      "id": 2,
+      "image": "/images/products/2.jpg",
+      "title": "Freya Serisi Pudra",
+      "subTitle": "Freya8",
+      "price": 60,
+      "color": "Pudra"
+    },
+    {
+      "id": 3,
+      "image": "/images/products/3.jpg",
+      "title": "Freya Serisi Mint",
+      "subTitle": "Freya7",
+      "price": 60,
+      "color": "Mint"
+    }
+
+  ],
+  "sliders": [
+    {
+      "id": 1,
+      "path": "/images/carousel-1.jpg",
+      "active": true
+    },
+    {
+      "id": 2,
+      "path": "/images/carousel-2.jpeg",
+      "active": false
+    },
+    {
+      "id": 3,
+      "path": "/images/carousel-3.jpg",
+      "active": false
+    },
+    {
+      "id": 4,
+      "path": "/images/carousel-4.jpg",
+      "active": false
+    }
+  ]
+}
